@@ -2,6 +2,7 @@ asdsadsadsadd
 sa
 naykoviy obraz svity
 1213
+<<<<<<< HEAD
 what we gonna do
 
 ya v ahue
@@ -9,3 +10,5 @@ ya v ahue
 
 
 sad
+=======
+>>>>>>> parent of d82efee (deleted smth)
